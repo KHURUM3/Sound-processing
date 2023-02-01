@@ -9,7 +9,7 @@ In this small kernel, the basic principles of working with sound using torchaudi
 
 Theoretical introductions:
 
-    https://www.youtube.com/watch?v=dBAn67ZKbZ4
+    [Introduction to Deep Learning for Audio and Speech Applications - YouTube](https://www.youtube.com/watch?v=dBAn67ZKbZ4)
     
     [a relative link](https://www.youtube.com/watch?v=dBAn67ZKbZ4)
     Introduction to Deep Learning for Audio and Speech Applications - YouTube
