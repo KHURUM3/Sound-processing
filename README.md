@@ -4,10 +4,15 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Sound+processing)](https://git.io/typing-svg)
 
 
-
+![Alt-текст](https://i.postimg.cc/4yMk6Yr4/2023-02-01-21-31-27.png)
 
 ```
+we will create a musical note using Numpy.
 
+мы создадим музыкальную ноту с помощью Numpy.
+
+```
+```
 In this small kernel the basic principles of working with sound using torchaudio are given.
 For a deeper understanding of the topic, the following resources are recommended:
 
